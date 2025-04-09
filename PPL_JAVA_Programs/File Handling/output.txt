@@ -1,0 +1,3 @@
+Hello, Java!
+PrintWriter makes file writing easy.
+PI value: 3.14
